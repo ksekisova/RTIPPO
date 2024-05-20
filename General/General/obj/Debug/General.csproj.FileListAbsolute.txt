@@ -1,0 +1,14 @@
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.csprojAssemblyReference.cache
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\source\repos\General\General\bin\Debug\General.exe.config
+C:\Users\Ксения\source\repos\General\General\bin\Debug\General.exe
+C:\Users\Ксения\source\repos\General\General\bin\Debug\General.pdb
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.exe
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.pdb
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.StartForm.resources
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.RegisterForm.resources
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.RoundForm.resources
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.QueueForm.resources
+C:\Users\Ксения\source\repos\General\General\obj\Debug\General.EndGameForm.resources
